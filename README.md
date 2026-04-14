@@ -99,3 +99,5 @@ Profitability Focus: Tracks margins and profitable categories.
    Product Performance Dashboard:https://github.com/praiseprakash/POWER-BI-PROJECT/blob/main/product.png
    
    Time Intelligence Dashboard:https://github.com/praiseprakash/POWER-BI-PROJECT/blob/main/time.png
+
+   Executive Insight Dashboard:https://github.com/praiseprakash/POWER-BI-PROJECT/blob/main/final.png
