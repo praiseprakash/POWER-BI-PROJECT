@@ -93,4 +93,5 @@ Profitability Focus: Tracks margins and profitable categories.
 
 6. Screenshots
    Overview Dashboard:https://github.com/praiseprakash/POWER-BI-PROJECT/blob/main/overview.png
-   Customer Insight Dashboard:
+   Customer Insight Dashboard:https://github.com/praiseprakash/POWER-BI-PROJECT/blob/main/customer.png
+   Product Performance Dashboard:
